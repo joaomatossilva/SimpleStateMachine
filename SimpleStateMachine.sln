@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleStateMachine", "SimpleStateMachine\SimpleStateMachine.csproj", "{62A8A26E-DE19-4B9C-A134-4472336B2CC5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleStateMachine.Tests", "SimpleStateMachine.Tests\SimpleStateMachine.Tests.csproj", "{2672A846-CE1A-44E4-9A67-53BB22D01627}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{62A8A26E-DE19-4B9C-A134-4472336B2CC5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{62A8A26E-DE19-4B9C-A134-4472336B2CC5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{62A8A26E-DE19-4B9C-A134-4472336B2CC5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{62A8A26E-DE19-4B9C-A134-4472336B2CC5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2672A846-CE1A-44E4-9A67-53BB22D01627}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2672A846-CE1A-44E4-9A67-53BB22D01627}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2672A846-CE1A-44E4-9A67-53BB22D01627}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2672A846-CE1A-44E4-9A67-53BB22D01627}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
